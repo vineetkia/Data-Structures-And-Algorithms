@@ -1,5 +1,5 @@
 # Data-Structures-And-Algorithms :star:
-> The Syllabus For Each Level is Mentioned Below:
+> The Syllabus For Each Week is Mentioned Below:
 
 ![](http://inside.mines.edu/UserFiles/Image/ComputerScience/CS%20PDFs/algorithms.png)
 
